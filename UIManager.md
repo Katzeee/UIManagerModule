@@ -6,7 +6,7 @@
 
 ---
 
-##结构
+## 结构
 
 - UIManager：总管理器
   - PanelManager：以Panel为单位进行管理
@@ -14,7 +14,7 @@
 
 ---
 
-##脚本
+## 脚本
 
 - UIEvent：管理控件自身
   - Attributes：
